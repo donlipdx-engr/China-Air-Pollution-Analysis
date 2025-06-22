@@ -7,6 +7,7 @@ Here, we consider a synthetic dataset of air pollution and meteorological data f
 ## Contents
 
 1. Data Pre-Processing
-2. Autoregressive Integrated Moving Average (ARIMA) AQI Forecast
-3. Exponential Smoothing Time Series (ETS) AQI Forecast
-4. Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) AQI Forecast
+2. Descriptive Statistics for Each of Five Cities
+3. Autoregressive Integrated Moving Average (ARIMA) AQI Forecast
+4. Exponential Smoothing Time Series (ETS) AQI Forecast
+5. Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) AQI Forecast
