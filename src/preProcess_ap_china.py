@@ -5,10 +5,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import sklearn as sk
-
-from sklearn import preprocessing
-from sklearn.preprocessing import MinMaxScaler
 
 # Concatenate hour, month, and year columns into
 # single datetime column
@@ -63,7 +59,6 @@ def pre_processing(df):
     
     # List unique cities in dataset
     cities = df['City'].unique()
-    cities = cities.tolist()
     print(f"The cities contained in the dataset are {cities}")
 
     # Splice entire dataset into dataframes for each city
@@ -93,5 +88,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
