@@ -82,6 +82,8 @@ def pre_processing(df):
         cast_to_datetime(df_cities[j])
         j += 1
 
+    return shenzhen, shanghai, beijing, chengdu, guangzhou
+
 def main():
     df = pd.read_csv('air_pollution_china.csv')
     pre_processing(df)
