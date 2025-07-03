@@ -13,4 +13,4 @@ Here, we consider a [synthetic dataset](https://www.kaggle.com/datasets/khushiky
 5. Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) AQI Forecast
 6. Conclusion
 
-## 1. Data Pre-Processing
+## (1)  Data Pre-Processing
