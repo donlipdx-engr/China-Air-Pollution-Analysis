@@ -14,3 +14,5 @@ Here, we consider a [synthetic dataset](https://www.kaggle.com/datasets/khushiky
 6. Conclusion
 
 ## (1)  Data Pre-Processing
+
+Data pre-processing is the first step, which consists of data cleaning (handling missing values, outliers, duplicate values, etc.), data transformation (any necessary scaling or encoding), and data validation. 
